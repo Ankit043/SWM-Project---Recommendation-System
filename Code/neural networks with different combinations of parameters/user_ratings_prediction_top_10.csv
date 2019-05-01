@@ -1,0 +1,11 @@
+	userid	movieid	rating	prediction	title	genre
+0	234	1198	5	4.692028522491455	Raiders of the Lost Ark (1981)	Action|Adventure
+1	234	1299	4	4.575795650482178	Killing Fields, The (1984)	Drama|War
+2	234	2971	5	4.542850494384766	All That Jazz (1979)	Musical
+3	234	1291	4	4.540975570678711	Indiana Jones and the Last Crusade (1989)	Action|Adventure
+4	234	1672	5	4.520812034606934	Rainmaker, The (1997)	Drama
+5	234	1242	4	4.47533655166626	Glory (1989)	Action|Drama|War
+6	234	1196	4	4.44966459274292	Star Wars: Episode V - The Empire Strikes Back (1980)	Action|Adventure|Drama|Sci-Fi|War
+7	234	1293	5	4.4074296951293945	Gandhi (1982)	Drama
+8	234	1213	5	4.3774919509887695	GoodFellas (1990)	Crime|Drama
+9	234	1252	5	4.361408710479736	Chinatown (1974)	Film-Noir|Mystery|Thriller
